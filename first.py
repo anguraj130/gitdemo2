@@ -1,7 +1,9 @@
 print("hello")
-a = 5
+a = 8
 b = 5
 sum1 = a + b
 print(sum1)
 mul = a*b
 print(mul)
+sub = a-b
+print(sub)
