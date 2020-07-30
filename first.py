@@ -9,3 +9,4 @@ sub = a-b
 print(sub)
 div = a/b
 print(div)
+print("all are completed")
