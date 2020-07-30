@@ -7,3 +7,5 @@ mul = a*b
 print(mul)
 sub = a-b
 print(sub)
+div = a/b
+print(div)
