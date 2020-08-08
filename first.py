@@ -9,5 +9,5 @@ sub = a-b
 print(sub)
 div = a/b
 print(div)
-print("all are completed sucessfully")
-welcome to python
+print("welcome to vs code")
+
