@@ -1,6 +1,6 @@
 print("hello")
-a = 8
-b = 5
+a = 6
+b = 7
 sum1 = a + b
 print(sum1)
 mul = a*b
